@@ -1,0 +1,7 @@
+header {
+    background-image: url(../hero-bg.jpg);
+}
+
+.girl-img {
+    object-fit: cover;
+}
